@@ -1,0 +1,387 @@
+{
+    "name": "",
+    "folderId": "",
+    "folders": [
+      {
+        "name": "PROJECTS",
+        "folderId": "",
+        "folders": [
+            {
+                "name": "Sugar Supply Chain Optimization",
+                "client": "Coca Cola",
+                "country": "ROMANIA",
+                "suppliers": ["Sugar&Sweets Co"],
+                "status": "COMPLETED",
+                "start": "11/01/2024",
+                "end": "",
+                "comments": "Main problem is sugar waste in factories",
+                "interest": "High",
+                "editor": "John",
+                "eid": {
+                  "numberInt": "94629235"
+                },
+                "folderId": "",
+                "projectId": "RO110920239079",
+                "contacts": [
+                  {
+                    "name": "John Doe",
+                    "cid": {
+                      "numberInt": "55756841"
+                    },
+                    "jobTitle": "",
+                    "fixTel": "",
+                    "mobTel": "+40 (799) 888 777",
+                    "email": "johny@cola.com"
+                  }
+                ],
+                "folders": [
+                  {
+                    "name": "Financing | RO110920239079",
+                    "folderId": "",
+                    "folders": [],
+                    "files": [
+                    ]
+                  }
+                ],
+                "files": [
+                  {
+                    "file": "Invoices.pdf",
+                    "id": ""
+                  },
+                  {
+                    "file": "Balance Sheet.png",
+                    "id": ""
+                  }
+                ]
+              },
+              {
+                "name": "Ruby Chocolate",
+                "client": "KitKat | Nestle",
+                "country": "ROMANIA",
+                "suppliers": ["Barry Callebaut"],
+                "status": "ONGOING",
+                "start": "10/02/2024",
+                "end": "",
+                "comments": "",
+                "interest": "Low",
+                "eid": {
+                  "numberInt": "28526282"
+                },
+                "projectId": "RO221220221249",
+                "clientQuoId": "",
+                "editor": "John",
+                "folderId": "",
+                "contacts": [
+                  {
+                    "name": "Jim Smith",
+                    "cid": {
+                      "numberInt": "19349323"
+                    },
+                    "jobTitle": "",
+                    "fixTel": "",
+                    "mobTel": "",
+                    "email": "jim.smith@nestle.com"
+                  }
+                ],
+                "folders": [],
+                "files": []
+              },
+              {
+                "name": "Caffeine Chips",
+                "client": "Lays",
+                "country": "SUDAN",
+                "suppliers": ["Chippy Chips"],
+                "status": "STANDBY",
+                "start": "12/02/2024",
+                "meetings": "",
+                "comments": "",
+                "interest": "",
+                "editor": "Armin",
+                "eid": {
+                  "numberInt": "95485913"
+                },
+                "folderId": "",
+                "projectId": "BG120520235059",
+                "contacts": [
+                  {
+                    "name": "Andrei",
+                    "cid": {
+                      "numberInt": "51522021"
+                    },
+                    "jobTitle": "CEO",
+                    "fixTel": "",
+                    "mobTel": "ceo@chippychips.eu",
+                    "email": "‭+40 785 111 000"
+                  }
+                ],
+                "folders": [],
+                "files": []
+              }
+        ],
+        "files": []
+      },
+      {
+        "name": "CLIENTS ",
+        "folderId": "",
+        "folders": [
+            {
+                "name": "ROMANIA",
+                "folderId": "12Z-dv6k8TS6Xy-U4cMUCNipCgMFoYRu2",
+                "folders": [
+                    {
+                        "name": "Coca Cola",
+                        "vat": "RO6811931",
+                        "country": "ROMANIA",
+                        "address": "Calea Victoriei 18-20",
+                        "webpage": "https://www.coke.com/",
+                        "folderId": "",
+                        "contacts": [
+                          {
+                            "name": "Jim",
+                            "cid": {
+                              "numberInt": "76634893"
+                            },
+                            "jobTitle": "R&D Manager",
+                            "fixTel": "",
+                            "mobTel": "‭+40 (999) 888 777",
+                            "email": "research@coke.com"
+                          }
+                        ],
+                        "folders": [],
+                        "files": []
+                    },
+                    {
+                      "name": "KitKat",
+                      "folderId": "1ol2h1DA3NAFr8rGtXCVDDkLpjux1NpcC",
+                      "folders": [
+                        {
+                          "name": "untitled folder",
+                          "folderId": "1yJySZpVAMjnuOT9E0IzzUWKsjBKMOLxD",
+                          "folders": [],
+                          "files": []
+                        },
+                        {
+                          "name": "Nutritional data",
+                          "folderId": "",
+                          "folders": [],
+                          "files": []
+                        },
+                        {
+                          "name": "Research & Development",
+                          "folderId": "",
+                          "folders": [],
+                          "files": []
+                        }
+                      ],
+                      "files": [
+                        {
+                          "name": "salaries 2023-2024.docx",
+                          "id": ""
+                        },
+                        {
+                          "name": "revenues.pdf",
+                          "id": ""
+                        },
+                        {
+                          "name": "equity splits.pages",
+                          "id": ""
+                        },
+                        {
+                          "name": "investments 2024.pdf",
+                          "id": "1as8J-QkNSQUDhAbzYNiayvGD9v1im82A"
+                        }
+                      ],
+                      "country": "ROMANIA",
+                      "address": "",
+                      "webpage": "",
+                      "id": {
+                        "numberInt": "56619364"
+                      },
+                      "contacts": [
+                        {
+                          "name": "",
+                          "cid": {
+                            "numberInt": "59422845"
+                          },
+                          "jobTitle": "",
+                          "fixTel": "",
+                          "mobTel": "",
+                          "email": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "PespiCo",
+                      "folderId": "",
+                      "folders": [],
+                      "files": [],
+                      "country": "ROMANIA",
+                      "address": "Strada 1 Decembrie 1918 81-75",
+                      "webpage": "www.pepsi.com",
+                      "id": {
+                        "numberInt": "67116210"
+                      },
+                      "contacts": [
+                        {
+                          "name": "",
+                          "cid": {
+                            "numberInt": "21999935"
+                          },
+                          "jobTitle": "",
+                          "fixTel": "",
+                          "mobTel": "",
+                          "email": ""
+                        }
+                      ]
+                    }
+                ],
+                "files": []
+              },
+              {
+                "name": "SUDAN",
+                "folderId": "",
+                "folders": [
+                  {
+                    "name": "Chippy Chips",
+                    "folderId": "",
+                    "folders": [],
+                    "files": [],
+                    "country": "SUDAN",
+                    "address": "",
+                    "webpage": "",
+                    "id": {
+                      "numberInt": "79923907"
+                    },
+                    "contacts": [
+                      {
+                        "name": "",
+                        "cid": {
+                          "numberInt": "72854475"
+                        },
+                        "jobTitle": "",
+                        "fixTel": "",
+                        "mobTel": "",
+                        "email": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Burger Queen GROUP",
+                    "folderId": "",
+                    "folders": [],
+                    "files": [],
+                    "country": "SUDAN",
+                    "address": "",
+                    "field": "",
+                    "webpage": "",
+                    "id": {
+                      "numberInt": "23622041"
+                    },
+                    "contacts": [
+                      {
+                        "name": "",
+                        "cid": {
+                          "numberInt": "82798460"
+                        },
+                        "jobTitle": "",
+                        "fixTel": "",
+                        "mobTel": "",
+                        "email": ""
+                      }
+                    ]
+                  }
+                ],
+                "files": []
+              }
+        ],
+        "files": []
+      },
+      {
+        "name": "SUPPLIERS",
+        "folderId": "",
+        "folders": [
+            {
+                "name": "Sugar&Sweets Products",
+                "country": "CYPRUS",
+                "address": "Strada 1 Decembrie 1918 81-75",
+                "webpage": "https://www.sands.com/en/",
+                "folderId": "",
+                "contacts": [
+                  {
+                    "name": "Jimmy Jim",
+                    "jobTitle": "Sales Manager",
+                    "email": "jimmy@sands.com",
+                    "fixTel": "",
+                    "mobTel": "‭+30 899 999 999‬"
+                  }
+                ],
+                "folders": [],
+                "files": []
+              },
+              {
+                "name": "Barry Callebaut",
+                "folderId": "",
+                "folders": [
+                  {
+                    "name": "Chocolate groups",
+                    "folderId": "",
+                    "folders": [],
+                    "files": []
+                  }
+                ],
+                "files": [
+                  {
+                    "name": "ruby ingredients.pages",
+                    "id": ""
+                  },
+                  {
+                    "name": "2023 expo brochure draft.pages",
+                    "id": ""
+                  }
+                ],
+                "country": "TURKEY",
+                "address": "",
+                "webpage": "",
+                "id": {
+                  "numberInt": "49208756"
+                },
+                "contacts": [
+                  {
+                    "name": "",
+                    "cid": {
+                      "numberInt": "82874265"
+                    },
+                    "jobTitle": "",
+                    "fixTel": "",
+                    "mobTel": "",
+                    "email": ""
+                  }
+                ]
+              },
+              {
+                "name": "Lays",
+                "vat": "",
+                "country": "BELGIUM",
+                "address": "",
+                "webpage": "www.layyy.com",
+                "folderId": "",
+                "contacts": [
+                  {
+                    "name": "",
+                    "cid": {
+                      "numberInt": "69537321"
+                    },
+                    "jobTitle": "",
+                    "fixTel": "",
+                    "mobTel": "",
+                    "email": ""
+                  }
+                ],
+                "folders": [],
+                "files": []
+              }
+        ],
+        "files": []
+      }
+    ]
+  }
